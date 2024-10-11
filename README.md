@@ -2,11 +2,16 @@
 
 A command-line tool to parse chemical formulas, draw the periodic table, and display electron configurations.
 
+
+![icon](./icon/icon_small.png)
+
 ## Features
 
 - Parse chemical formulas and display relevant information, such as molecular mass, charge, and state.
 - Draw the periodic table.
 - Display electron configurations of the elements in the formula.
+
+
 
 ## Usage
 
