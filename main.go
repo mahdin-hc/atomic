@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"flag"
 	"fmt"
-	"atomic/elements"
+	"github.com/mahdin-hc/atomic/elements"
 )
 
 //go:embed data/elements.csv
