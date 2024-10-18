@@ -1,4 +1,4 @@
-module atomic
+module github.com/mahdin-hc/atomic
 
 go 1.22.3
 
