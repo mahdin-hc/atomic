@@ -44,7 +44,7 @@ atomic [options] <formula>
 2. **Draw the periodic table** and show the electron configurations:
 
     ```bash
-    atomic -pt -e NaCl
+    atomic -pt -e C7H5N3O7
     ```
 
     Output:
